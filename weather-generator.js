@@ -8,6 +8,8 @@
 // ============================================================
 
 console.log("Hey man! good job,you are making progress!👍");
+console.log("Hello, World!"); // Logs a string literal
+
 
 const $ = (selector) => document.querySelector(selector);
 
