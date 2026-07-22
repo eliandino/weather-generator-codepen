@@ -1,3 +1,6 @@
+console.log("VERSION 3: GitHub file loaded");
+
+// Everything else below.
 // ============================================================
 // CODEPEN WEATHER GENERATOR
 // ============================================================
