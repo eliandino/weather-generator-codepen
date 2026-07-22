@@ -7,7 +7,7 @@
 // https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.min.js
 // ============================================================
 
-console.log("Weather Generator loaded from GitHub");
+console.log("Hey man! good job,you are making progress!👍");
 
 const $ = (selector) => document.querySelector(selector);
 
