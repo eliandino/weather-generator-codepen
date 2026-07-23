@@ -1,5 +1,3 @@
-console.log("VERSION 3: GitHub file loaded");
-
 // Everything else below.
 // ============================================================
 // CODEPEN WEATHER GENERATOR
@@ -10,7 +8,6 @@ console.log("VERSION 3: GitHub file loaded");
 // https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.min.js
 // ============================================================
 
-console.log("Hey man! good job,you are making progress!👍");
 console.log("Hello, World!"); // Logs a string literal
 
 
